@@ -9,6 +9,6 @@
     <bean id="secondComponent" class="com.example.SpringDoNotFail.ClassTwo"/>
 
     <bean id="myComponent" class="com.example.SpringDoNotFail.ClassThree">
-        
+
     </bean>
 </beans>
